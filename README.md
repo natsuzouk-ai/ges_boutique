@@ -195,11 +195,6 @@ Ce projet a été réalisé dans le cadre d'un mini-projet de développement web
 - La génération de PDF
 - La gestion d'une base de données MySQL
 
----
-
-## 📄 Licence
-
-Projet académique réalisé à des fins pédagogiques.
 
 ---
 
